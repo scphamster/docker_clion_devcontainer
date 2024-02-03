@@ -1,0 +1,5 @@
+{
+  "name": "bitbake-cpp",
+  "image": "toolchain:bitbake",
+
+}
